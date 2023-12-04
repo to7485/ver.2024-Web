@@ -1,5 +1,11 @@
 # New version Full-Stack WebDevelop curriculum
 
+## Reasons to learn
+- The Most popular language in korea is Java
+- The goal is to grow as a web developer by acquiring the latest back-end technology
+- Through Various technology stacks where the the field of software development can react any Job Position
+
+
 ## 1. Java
 - environment : Jdk 11, Eclipse, Windows 10
 ### Day 1
