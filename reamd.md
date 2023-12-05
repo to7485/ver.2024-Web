@@ -11,7 +11,11 @@
 - 300 hours
 
 
-## 1. Java
+## 1. Software design
+- flow chart, sequence diagram
+- 
+
+## 2. Java
 - environment : Jdk 11, Eclipse, Windows 10
 ### Day 1
 - setting(Jdk, Eclipse), DataType, Variable
