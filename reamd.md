@@ -57,6 +57,15 @@
 - goal
     - get used to java, collaborate with others
 
+## 2. Web & DBMS
+### Day 1 (HTML)
+- DOM, h1~h6, b, span, p, div, ul, ol, li, table, a
 
+### Day 2 ~ 3 (CSS)
+- How to use CSS
+- CSS Selector(class, id, tag)
+- border, padding, margin, font, image
+- display, overflow, pseudo class, z-index float, position
 
-
+## Day 4 (JavaScript)
+- 
