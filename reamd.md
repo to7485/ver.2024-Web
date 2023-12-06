@@ -3,17 +3,18 @@
 ## Reasons to learn
 - The Most popular language in korea is Java
 - The goal is to grow as a web developer by acquiring the latest back-end technology
-- Through Various technology stacks where the the field of software development can react any Job Position
+- Through Various technology stacks where the field of software development can react any Job Position
 
 ## TRANING SESSION
 - 3hours in Weekday in a month
 - total 5 months
 - 300 hours
 
-
 ## 1. Software design
-- flow chart, sequence diagram
-- 
+### front-end
+- flow chart
+### back-end
+- sequence diagram
 
 ## 2. Java
 - environment : Jdk 11, Eclipse, Windows 10
@@ -38,7 +39,7 @@
 ### Day 11
 - exception handling, Java API(Object, String, String Builder, Math, Calender)
 ### Day 12 ~ 13
-- Collection(List, Set, Map)
+- Generics, Collection(List, Set, Map), Iterator, Collections
 ### Day 14
 - Lamda expression
 ### Day 15 ~ 16
