@@ -16,7 +16,11 @@
 ### back-end
 - sequence diagram
 
-## 2. Java
+## 2. Git
+- about git
+- how to use git
+
+## 3. Java
 - environment : Jdk 11, Eclipse, Windows 10
 ### Day 1
 - setting(Jdk, Eclipse), DataType, Variable
@@ -57,7 +61,7 @@
 - goal
     - get used to java, collaborate with others
 
-## 2. Web & DBMS
+## 3. Web & DBMS
 ### Day 1 (HTML)
 - DOM, h1~h6, b, span, p, div, ul, ol, li, table, a
 
