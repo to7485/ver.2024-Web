@@ -67,5 +67,17 @@
 - border, padding, margin, font, image
 - display, overflow, pseudo class, z-index float, position
 
-## Day 4 (JavaScript)
-- 
+### Day 4 (JavaScript)
+- variable, DataType
+    - difference of var,let,const 
+- operator
+- control statement
+    - if, switch
+    - for, while
+- symbol, template literals
+
+### Day 5
+- Array, Object, Function
+
+### Day 6
+- Manipulating documents, Event, form
